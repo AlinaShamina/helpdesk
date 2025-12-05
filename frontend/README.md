@@ -1,5 +1,5 @@
 # HelpDesk Frontend
 
-[![CI](https://github.com/Aluko/helpdesk-frontend/actions/workflows/ci.yml/badge.svg)](https://github.com/Aluko/helpdesk-frontend/actions/workflows/ci.yml)
+[![CI](https://github.com/AlinaShamina/helpdesk/actions/workflows/ci.yml/badge.svg)](https://github.com/AlinaShamina/helpdesk/actions/workflows/ci.yml)
 
-[Посмотреть сайт](http://localhost:8080)  
+[Посмотреть сайт](https://AlinaShamina.github.io/helpdesk/)
